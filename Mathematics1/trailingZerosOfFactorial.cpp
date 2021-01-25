@@ -14,6 +14,6 @@ int trailingZeros(int n){
 
 }
 int main(){
-cout<<trailingZeros(120)<<endl;
+cout<<"hello world"<<endl;
 return 0;
 }
